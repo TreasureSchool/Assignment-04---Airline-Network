@@ -1,4 +1,4 @@
-# Airline-Graph
+# Airline-Network assignment
 
 - [x] 1 Find if an airport can be reached from another using only a single airline company. You should compare
 - [x] Breadth-first
